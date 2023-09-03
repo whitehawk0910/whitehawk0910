@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Piyush kumar</h1>
 <h3 align="center">Bridging Realms: Full-Stack web, Quantum, ARM processor Fusion</h3>
-<img align ="right" alt="code" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehawk0910" alt="whitehawk0910" /></a> </p>
+<img align ="right" alt="code" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **web 3.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/whitehawk0910](https://github.com/whitehawk0910)
 
-- 💬 Ask me about **Machine learning ,arm processor ,quantum computing**
+- 💬 Ask me about **Machine learning, arm processor, quantum computing**
 
 - 📫 How to reach me **piyushofficial09@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing](https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing)
 
 - ⚡ Fun fact **I'm so interdisciplinary that even my browser tabs have trust issues.**
-
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehawk0910" alt="whitehawk0910" /></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-kumar-2886001aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-kumar-2886001aa/" height="30" width="40" /></a>
