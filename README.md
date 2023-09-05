@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **piyushofficial09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing](https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing) or at (https://piyush45.tech)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing](https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing) or at 
+ (https://piyush45.tech)
 
 - ⚡ Fun fact **I'm so interdisciplinary that even my browser tabs have trust issues.**
 
