@@ -11,16 +11,14 @@
 
 - 📫 How to reach me **piyushofficial09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing](https://drive.google.com/file/d/1O8pMsTmC61AWZ1nuWprdDSy4HCOKN8Sc/view?usp=sharing) or at 
- (https://piyush45.tech)
-
+ 
 - ⚡ Fun fact **I'm so interdisciplinary that even my browser tabs have trust issues.**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-kumar-2886001aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-kumar-2886001aa/" height="30" width="40" /></a>
 <a href="https://kaggle.com/piyush0910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piyush0910" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/whitehawk09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whitehawk09" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/whitehawk09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whitehawk09" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/0" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="whitehawk09" height="30" width="40" />
 </a>
